@@ -1,0 +1,15 @@
+[
+  {
+    "Author": "Cosmos52",  //插件开发者名字
+    "Name": "滑步点指示框",  //插件搜索名字
+    "InternalName": "SlidePoint",  //插件开发名字，需要跟插件的json文件内名称严格一致
+    "AssemblyVersion": "1.0.0.0",  //插件版本
+    "DalamudApiLevel": 15,  //卫月API等级
+    "DownloadLinkInstall": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/SlidePoint/SlidePoint_v1.0.zip", // 重要！你的插件包下载地址
+    //插件下载链接
+    "DownloadLinkUpdate": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/SlidePoint/SlidePoint_v1.0.zip", // 更新时也用同一个链接
+    //插件更新链接
+    "LastUpdate": "20260816",  //插件更新时间
+    "Punchline": "显示咏唱条的滑步点"  //插件简要描述
+  }
+]
