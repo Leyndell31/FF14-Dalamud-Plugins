@@ -1,0 +1,16 @@
+[
+  {
+    "Author": "Cosmos52",
+    "Name": "滑步点指示框",
+    "Punchline": "显示咏唱条的滑步点",
+    "Description": "在玩家咏唱条剩余 0.5 秒的位置显示红绿滑步提示方框。",
+    "InternalName": "SlidePoint",
+    "AssemblyVersion": "1.0.0.0",  // 你的插件版本号
+    "RepoUrl": "https://github.com/Leyndell31/FF14-Dalamud-Plugins",
+    "ApplicableVersion": "any",  // 兼容的游戏版本，建议写 "any"
+    "DalamudApiLevel": 15,       // 你插件目标API等级，请查阅最新文档
+    "DownloadLinkInstall": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/SlidePoint/SlidePoint_v1.0.zip", // 重要！你的插件包下载地址
+    "DownloadLinkUpdate": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/SlidePoint/SlidePoint_v1.0.zip", // 更新时也用同一个链接
+    "LastUpdate": "20260816"   // Unix时间戳，表示最后更新时间
+  }
+]
