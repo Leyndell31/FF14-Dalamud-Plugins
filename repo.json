@@ -1,0 +1,28 @@
+[
+  {
+    "Author": "Cosmos52",  //插件开发者名字
+    "Name": "滑步点指示框",  //插件搜索名字
+    "InternalName": "SlidePoint",  //插件开发名字，需要跟插件的json文件内名称严格一致
+    "AssemblyVersion": "1.0.0.0",  //插件版本
+    "DalamudApiLevel": 15,  //卫月API等级
+    "DownloadLinkInstall": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/SlidePoint/SlidePoint_v1.0.zip",
+    //插件下载链接
+    "DownloadLinkUpdate": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/SlidePoint/SlidePoint_v1.0.zip",
+    //插件更新链接
+    "LastUpdate": "20260816",  //插件更新时间
+    "Punchline": "显示咏唱条的滑步点"  //插件简要描述
+  },
+  {
+  "Author": "Cosmos52",
+  "Name": "副本脱战自动冲刺",
+  "InternalName": "AutoSprint",
+  "AssemblyVersion": "1.0.0.0",
+  "DalamudApiLevel": 15,  
+  "DownloadLinkInstall": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/AutoSprint/AutoSprint.zip",
+    //插件下载链接
+  "DownloadLinkUpdate": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/AutoSprint/AutoSprint.zip",
+    //插件更新链接  
+  "LastUpdate": "20260819",
+  "Punchline": "在副本中脱战状态时自动使用冲刺"
+  }
+]
