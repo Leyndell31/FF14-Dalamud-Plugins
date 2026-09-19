@@ -37,5 +37,18 @@
     //插件更新链接  
   "LastUpdate": "20260917",
   "Punchline": "在副本中不处于战斗时自动召唤宝石兽和小仙女。"
+  },
+  {
+  "Author": "Cosmos52",
+  "Name": "自定义玩家名称",
+  "InternalName": "PlayerNameDIY",
+  "AssemblyVersion": "1.0.0.0",
+  "DalamudApiLevel": 15,  
+  "DownloadLinkInstall": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/PlayerNameDIY/PlayerNameDIY.zip",
+    //插件下载链接
+  "DownloadLinkUpdate": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/PlayerNameDIY/PlayerNameDIY.zip",
+    //插件更新链接  
+  "LastUpdate": "20260919",
+  "Punchline": "自定义所有界面中的玩家名称、称号和部队简称。"
   }
 ]
