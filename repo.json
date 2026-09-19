@@ -29,7 +29,7 @@
   "Author": "Cosmos52",
   "Name": "副本中自动召唤",
   "InternalName": "AutoSummonPet",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.1.0",
   "DalamudApiLevel": 15,  
   "DownloadLinkInstall": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/AutoSummonPet/AutoSummonPet.zip",
     //插件下载链接
