@@ -42,7 +42,7 @@
   "Author": "Cosmos52",
   "Name": "自定义玩家名称",
   "InternalName": "PlayerNameDIY",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.1.0",
   "DalamudApiLevel": 15,  
   "DownloadLinkInstall": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/PlayerNameDIY/PlayerNameDIY.zip",
     //插件下载链接
