@@ -50,5 +50,18 @@
     //插件更新链接  
   "LastUpdate": "20260919",
   "Punchline": "自定义所有界面中的玩家名称、称号和部队简称。"
+  },
+  {
+  "Author": "Cosmos52",
+  "Name": "强调显示自身Buff",
+  "InternalName": "FocusOnYourBuffs",
+  "AssemblyVersion": "1.0.0.0",
+  "DalamudApiLevel": 15,  
+  "DownloadLinkInstall": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/FocusOnYourBuffs/FocusOnYourBuffs.zip",
+    //插件下载链接
+  "DownloadLinkUpdate": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/FocusOnYourBuffs/FocusOnYourBuffs.zip",
+    //插件更新链接  
+  "LastUpdate": "20260923",
+  "Punchline": "优先显示来自于自身的Buff并放大图标。"
   }
 ]
