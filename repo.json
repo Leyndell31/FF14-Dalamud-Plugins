@@ -1,0 +1,80 @@
+[
+  {
+    "Author": "AkhMorn",
+    "Name": "读条滑步提示",
+    "InternalName": "CastSlideHUD",
+    "AssemblyVersion": "1.0.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Description": "在玩家读条剩余 0.5 秒的位置显示红绿滑步提示方框。",
+    "RepoUrl": "https://github.com/Leyndell31/FF14-Dalamud-Plugins",
+    "DownloadLinkInstall": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/CastSlideHUD/CastSlideHUD.zip",
+    "DownloadLinkUpdate": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/CastSlideHUD/CastSlideHUD.zip",
+    "Punchline": "玩家读条滑步点可视化"
+  },
+  {
+    "Author": "AkhMorn",
+    "Name": "副本脱战自动冲刺",
+    "InternalName": "AutoSprint",
+    "AssemblyVersion": "1.0.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Description": "当你在副本中脱离战斗时，自动开启疾跑，节省操作。",
+    "RepoUrl": "https://github.com/Leyndell31/FF14-Dalamud-Plugins",
+    "DownloadLinkInstall": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/AutoSprint/AutoSprint.zip",
+    "DownloadLinkUpdate": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/AutoSprint/AutoSprint.zip",
+    "Punchline": "副本中未进入战斗状态时自动使用冲刺"
+  },
+  {
+    "Author": "AkhMorn",
+    "Name": "副本中自动召唤",
+    "InternalName": "AutoSummonPet",
+    "AssemblyVersion": "1.0.1.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Description": "在副本中不处于战斗时自动召唤宝石兽和小仙女，死亡后复活也会自动补召唤。",
+    "RepoUrl": "https://github.com/Leyndell31/FF14-Dalamud-Plugins",
+    "DownloadLinkInstall": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/AutoSummonPet/AutoSummonPet.zip",
+    "DownloadLinkUpdate": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/AutoSummonPet/AutoSummonPet.zip",
+    "Punchline": "副本中自动召唤宠物"
+  },
+  {
+    "Author": "AkhMorn",
+    "Name": "自定义玩家名称",
+    "InternalName": "PlayerNameDIY",
+    "AssemblyVersion": "1.0.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Description": "自定义铭牌、聊天框、目标信息栏等界面中的玩家名称、称号及部队简称。",
+    "RepoUrl": "https://github.com/Leyndell31/FF14-Dalamud-Plugins",
+    "DownloadLinkInstall": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/PlayerNameDIY/PlayerNameDIY.zip",
+    "DownloadLinkUpdate": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/PlayerNameDIY/PlayerNameDIY.zip",
+    "Punchline": "自定义所有界面中的玩家名称、称号和部队简称。"
+  },
+  {
+    "Author": "AkhMorn",
+    "Name": "强调显示自身Buff",
+    "InternalName": "FocusOnYourBuffs",
+    "AssemblyVersion": "1.0.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Description": "让「状态效果：强化状态」里自己给的Buff排在最前，并把图标放大50%。",
+    "RepoUrl": "https://github.com/Leyndell31/FF14-Dalamud-Plugins",
+    "DownloadLinkInstall": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/FocusOnYourBuffs/FocusOnYourBuffs.zip",
+    "DownloadLinkUpdate": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/FocusOnYourBuffs/FocusOnYourBuffs.zip",
+    "Punchline": "优先显示来自于自身的Buff并放大图标。"
+  },
+  {
+    "Author": "AkhMorn",
+    "Name": "跨服小队列表优化",
+    "InternalName": "PartyListOptimization",
+    "AssemblyVersion": "1.0.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Description": "让跨服小队列表像本地小队列表一样可点击：左键选中队员，右键打开队员菜单。",
+    "RepoUrl": "https://github.com/Leyndell31/FF14-Dalamud-Plugins",
+    "DownloadLinkInstall": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/PartyListOptimization/PartyListOptimization.zip",
+    "DownloadLinkUpdate": "https://github.com/Leyndell31/FF14-Dalamud-Plugins/releases/download/PartyListOptimization/PartyListOptimization.zip",
+    "Punchline": "跨服小队列表也能点选和右键了。"
+  }
+]
